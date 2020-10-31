@@ -28,10 +28,12 @@ Run a MongoDB instance, the collections are created automatically by Mongoose.
 
 ### Development
 
+Run the application with *nodemon*, a utility that will monitor for any changes in your source and automatically restart your server
+
     $ npm run dev
 
 ### Test
-Run a testing framework, Jest, on tests written in *./test*
+Run a testing framework, *Jest*, on tests written in *./test*
 
     $ npm run test
 
