@@ -43,4 +43,4 @@ Run a testing framework, *Jest*, on tests written in *./test*
 
 ## Postman
 
-A Postman collection(./Task-app.postman_collection.json) is provided to access the application REST endpoints.
+A Postman collection(*./Task-app.postman_collection.json*) is provided to access the application REST endpoints.
